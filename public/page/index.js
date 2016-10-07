@@ -1,0 +1,1 @@
+define("page/index",function(n,e,t){var i=n("components/jquery/jquery"),c=n("static/libs/alert");t.exports=function(n){i(n).on("click",function(){return c("~Duang 的一下，我就弹出来了。"),!1})}});
